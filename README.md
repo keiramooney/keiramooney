@@ -9,19 +9,19 @@ My work blends **math, machine learning, and social impact** across multiple lab
 
 ## Current Research
 
-- **LLM Alignment @ [MIT IDSS](https://idss.mit.edu/)**  
+- **LLM Alignment @ [MIT Institute for Data, Systems, and Society](https://idss.mit.edu/)**  
   Efficient, alignment-aware fine-tuning using LoRA and hub-spoke structures.
   <!--  
   Focus: Safety, fairness, and robust adaptation across downstream tasks.
   -->
   
-- **Interpretability of LLMs in Urban Systems @ Senseable City Lab**  
+- **Interpretability of LLMs in Urban Systems @ [Senseable City Lab](https://senseable.mit.edu/)**  
   Probing spatial and conceptual structures in LLMs for urban knowledge modeling.
   <!--
   Contributions: Data preprocessing, visualization, and research toward publication.
   -->
   
-- **Physics-Informed ML for Sustainable Building Control @ MIT Architecture**  
+- **Physics-Informed ML for Sustainable Building Control @ [MIT Department of Architecture](https://architecture.mit.edu/) & [MIT Energy Initiatve](https://energy.mit.edu/)**  
   Optimizing building performance and reducing carbon emissions using PINNs.
 
 ---

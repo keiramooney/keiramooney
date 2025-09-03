@@ -1,8 +1,8 @@
 # Keira Mooney | MIT AI & Math
 
 ## About Me  
-I'm an undergrad at **MIT** researching ways to make AI systems safer, more interpretable, and aligned with human values.  
-My work blends **math, machine learning, and social impact** across multiple labs at MIT.
+I’m an undergrad at **MIT** studying Artificial Intelligence & Decision Making (with a Math minor).  
+My work focuses on making AI systems **safer, more interpretable, and aligned with human values**.
 
 
 ---
@@ -10,19 +10,14 @@ My work blends **math, machine learning, and social impact** across multiple lab
 ## Current Research
 
 - **LLM Alignment @ [MIT Institute for Data, Systems, and Society](https://idss.mit.edu/)**  
-  Efficient, alignment-aware fine-tuning using LoRA and hub-spoke structures.
-  <!--  
-  Focus: Safety, fairness, and robust adaptation across downstream tasks.
-  -->
-  
-- **Interpretability of LLMs in Urban Systems @ [Senseable City Lab](https://senseable.mit.edu/)**  
-  Probing spatial and conceptual structures in LLMs for urban knowledge modeling.
-  <!--
-  Contributions: Data preprocessing, visualization, and research toward publication.
-  -->
-  
-- **Physics-Informed ML for Sustainable Building Control @ [MIT Department of Architecture](https://architecture.mit.edu/) & [MIT Energy Initiatve](https://energy.mit.edu/)**  
-  Optimizing building performance and reducing carbon emissions using PINNs.
+  Investigating catastrophic forgetting in LLM fine-tuning with LoRA-SilverBullet.  
+  - Designed experiments with sequential vs. joint training on math & commonsense tasks.  
+  - Benchmarked on **GSM8K, ARC, HellaSwag, BoolQ**, analyzing retention vs. transfer trade-offs.  
+
+- **Interpretability of LLMs @ [Senseable City Lab](https://senseable.mit.edu/)**  
+  Leading literature review on mechanistic interpretability.  
+  - Built taxonomy of **100+ papers** categorizing probing, circuit discovery, activation patching, etc.  
+  - Synthesized trends, challenges, and future research directions.  
 
 ---
 
@@ -36,6 +31,7 @@ Long term, I want to design ethical, interpetable, and responsible AI for global
 **Languages:** `Python` `C/C++` `Bash` `HTML/CSS`  
 **ML/AI:** `PyTorch` `Transformers (HF)` `LoRA` `Scikit-Learn` `FedAvg`  
 **Tools:** `NumPy` `Pandas` `Git` `Jupyter` `Streamlit` `argparse`
+
 
 ---
 
@@ -56,8 +52,6 @@ Long term, I want to design ethical, interpetable, and responsible AI for global
 
 ## Connect with Me  
 [![Email](https://img.shields.io/badge/email-%23ea4aaa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmooney@mit.edu)
-<!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keiramooney)
--->
 
 
